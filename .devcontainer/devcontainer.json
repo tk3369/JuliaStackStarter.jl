@@ -1,0 +1,9 @@
+{
+    "extensions": [
+      "julialang.language-julia",
+      "editorconfig.editorconfig",
+      "eamodio.gitlens"
+    ],
+
+    "dockerFile": "Dockerfile"
+}
